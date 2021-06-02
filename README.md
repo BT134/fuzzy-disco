@@ -99,7 +99,7 @@
 
 ## Installation
 
-> This website doesnt require installation of any programs or software. It can be viewed on any web browser. It is now live at the following URL . We are just waiting for confirmation from the client that they are happy with the changes or to see if they would like to make any additional changes.
+> This website doesnt require installation of any programs or software. It can be viewed on any web browser. It is now live at the following URL https://bt134.github.io/fuzzy-disco/. We are just waiting for confirmation from the client that they are happy with the changes or to see if they would like to make any additional changes.
 
 ## Built With
 
