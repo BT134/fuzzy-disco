@@ -1,6 +1,6 @@
 # Horiseon Webpage Development - Week 1 Homework
 
-<img src=".Assests\images\horiseonlogo.JPG" alt="Horiseon Logo">
+<img src="Assests\images\horiseonlogo.JPG" alt="Horiseon Logo">
 
 ## Desciption
 
@@ -95,7 +95,7 @@
 
 ## Website Screen Shot
 
-><img src=".Assests\01-html-css-git-homework-demo.png" alt="Horiseon Webpage Screenshot">
+><img src="Assests\01-html-css-git-homework-demo.png" alt="Horiseon Webpage Screenshot">
 
 ## Installation
 
